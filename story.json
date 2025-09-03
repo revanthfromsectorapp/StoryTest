@@ -2,6 +2,7 @@
   {
     "title": "Journey to the Stars2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/1.png",
+    "tag": "c programming, python, java, security",
     "pages": [
       "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
       "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
@@ -13,6 +14,7 @@
   {
     "title": "The Lost City",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/2.png",
+     "tag": "hello, hi, bye",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
@@ -24,6 +26,7 @@
   {
     "title": "The Lost City2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/3.png",
+    "tag": "alekhya, revanth, akhil",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/2/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/2/1.jpg",
@@ -35,6 +38,7 @@
   {
     "title": "The Lost City3",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/4.png",
+    "tag": "mivi, boat",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
@@ -47,6 +51,7 @@
   {
     "title": "The Lost City4",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/5.png",
+    "tag": "apple, windows",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/4/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/4/1.jpg",
@@ -58,6 +63,7 @@
   {
     "title": "The Lost City5",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/6.png",
+    "tag": "mi, redmi",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/5/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/5/1.jpg",
@@ -71,6 +77,7 @@
   {
     "title": "The Lost City3",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/7.png",
+    "tag": "asus, nokia",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
@@ -83,6 +90,7 @@
   {
     "title": "Journey to the Stars2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/8.png",
+    "tag": "hello, bye",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
@@ -94,6 +102,7 @@
     {
     "title": "Journey to the Stars2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/9.png",
+      "tag": "apple, android",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
@@ -105,6 +114,19 @@
     {
     "title": "Journey to the Stars2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/10.png",
+      "tag": "hello, bye, hi",
+    "pages": [
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp"
+    ]
+  },
+  {
+    "title": "Journey to the Stars2",
+    "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/1.png",
+    "tag": "c programming, python, java, security",
     "pages": [
       "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
       "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
@@ -116,6 +138,7 @@
   {
     "title": "The Lost City",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/2.png",
+     "tag": "hello, hi, bye",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
@@ -127,6 +150,7 @@
   {
     "title": "The Lost City2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/3.png",
+    "tag": "alekhya, revanth, akhil",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/2/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/2/1.jpg",
@@ -138,6 +162,7 @@
   {
     "title": "The Lost City3",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/4.png",
+    "tag": "mivi, boat",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
@@ -150,6 +175,7 @@
   {
     "title": "The Lost City4",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/5.png",
+    "tag": "apple, windows",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/4/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/4/1.jpg",
@@ -161,6 +187,7 @@
   {
     "title": "The Lost City5",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/6.png",
+    "tag": "mi, redmi",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/5/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/5/1.jpg",
@@ -174,6 +201,7 @@
   {
     "title": "The Lost City3",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/7.png",
+    "tag": "asus, nokia",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/3/1.jpg",
@@ -186,6 +214,7 @@
   {
     "title": "Journey to the Stars2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/8.png",
+    "tag": "hello, bye",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
@@ -197,12 +226,25 @@
     {
     "title": "Journey to the Stars2",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/9.png",
+      "tag": "apple, android",
     "pages": [
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg",
       "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/6/2.jpg"
+    ]
+  },
+    {
+    "title": "Journey to the Stars2",
+    "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/10.png",
+      "tag": "hello, bye, hi",
+    "pages": [
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp",
+      "https://raw.githubusercontent.com/SectorApp/SectorApp/refs/heads/main/Mobile/1.webp"
     ]
   },
   {

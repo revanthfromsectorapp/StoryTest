@@ -1,6 +1,6 @@
 [
   {
-    "title": "Journey to the Stars2",
+    "title": "DeadLock Explained",
     "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/121/1.png",
     "tag": "c programming, python, java, security",
     "pages": [
@@ -12,15 +12,21 @@
     ]
   },
   {
-    "title": "The Lost City",
-    "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/cover/2.png",
+    "title": "References and Advanced Function",
+    "thumbnail": "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/1.png",
      "tag": "hello, hi, bye",
     "pages": [
-      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
-      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
-      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
-      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg",
-      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/1/1.jpg"
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/1.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/2.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/3.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/4.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/5.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/6.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/7.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/8.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/9.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/10.png",
+      "https://raw.githubusercontent.com/revanthfromsectorapp/StoryTest/refs/heads/main/12/11.png"
     ]
   },
   {

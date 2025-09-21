@@ -1,0 +1,212 @@
+
+[
+  {
+    "title": "FC The Secret Behind Every App: Programming Explained",
+    "paragraph": "Programming is teaching computers how to solve problems. We write instructions using languages like C, Python, or Java. These step-by-step commands, called code, tell the computer what to do. From apps to websites, programming turns ideas into working solutions. It’s like giving a recipe—clear steps the computer follows to create the final output.",
+    "image": "assets/data/unnamed.png",
+    "credit": "Sector App",
+    "keys": {
+      "topic": ["programming", "coding", "apps"],
+      "tools": ["C", "Python1", "Java1"],
+      "impact": ["problem-solving", "websites", "software"]
+    }
+  },
+  {
+    "title": "FC Learning Programming Made Easy",
+    "paragraph": "Programming is teaching a computer how to do a task. You write instructions in a language like Python or Java. Computers follow these steps exactly. Programming helps create apps, websites, and tools. Anyone can learn it with practice. Start with small exercises, then build projects. Programming is a mix of logic, creativity, and problem-solving that improves over time.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["programming basics", "learning code"],
+      "tools": ["Python", "Java"],
+      "impact": ["apps", "websites", "problem-solving"]
+    }
+  },
+  {
+    "title": "FC Artificial Intelligence in Daily Life",
+    "paragraph": "AI is not just in robots or big labs. It is already in our lives. Voice assistants, movie suggestions, and spam filters are all powered by AI. It learns from data and improves with time. AI saves time and makes tasks easier. It is changing jobs, businesses, and the way we live every day without us noticing it directly.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["artificial intelligence", "daily life"],
+      "tools": ["voice assistants", "spam filters", "recommendation systems"],
+      "impact": ["productivity", "jobs", "business"]
+    }
+  },
+  {
+    "title": "FC Why You Should Update Your Apps",
+    "paragraph": "App updates often fix bugs and improve safety. Hackers look for old app versions with weak points. Updating apps regularly protects your phone from attacks. Updates also add new features. It is a simple step but makes your device work better. Always check for updates in your settings to stay safe and enjoy the latest improvements.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["app updates", "cybersecurity"],
+      "tools": ["smartphone", "software"],
+      "impact": ["safety", "new features", "performance"]
+    }
+  },
+  {
+    "title": "The Secret Behind Every App: Programming Explained",
+    "paragraph": "Programming is teaching computers how to solve problems. We write instructions using languages like C, Python, or Java. These step-by-step commands, called code, tell the computer what to do. From apps to websites, programming turns ideas into working solutions. It’s like giving a recipe—clear steps the computer follows to create the final output.",
+    "image": "assets/data/unnamed.png",
+    "credit": "Sector App",
+    "keys": {
+      "topic": ["programming", "coding", "apps"],
+      "tools": ["C", "Python", "Java"],
+      "impact": ["problem-solving", "websites2", "software"]
+    }
+  },
+  {
+    "title": "Debugging: Finding and Fixing Errors",
+    "paragraph": "Debugging is checking your program for mistakes. Even skilled programmers face errors in their code. Common mistakes include typos, wrong logic, or missing steps. Debugging teaches patience and problem-solving. Tools like debuggers help track issues. Testing code regularly prevents big problems later. Debugging makes your program reliable and teaches you how to think carefully like a detective.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["debugging", "errors"],
+      "tools": ["debuggers", "testing tools"],
+      "impact": ["reliability", "problem-solving", "logic"]
+    }
+  },
+  {
+    "title": "AI That Writes Text",
+    "paragraph": "New AI tools can write emails, articles, and even stories. They learn from large amounts of text. This helps people save time and find ideas faster. But AI text is not always correct, so checking is important. Writers, students, and businesses use it every day. AI writing is becoming a common tool to support human creativity.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["AI writing", "text generation"],
+      "tools": ["AI tools", "language models"],
+      "impact": ["creativity", "productivity", "time-saving"]
+    }
+  },
+  {
+    "title": "The Power of Cloud Storage",
+    "paragraph": "Cloud storage means keeping files online instead of on your device. Services like Google Drive and Dropbox let you access files anywhere. You can share easily with others too. Cloud storage protects your files if your device breaks. It also saves space on your computer. It is safe, convenient, and useful for both students and professionals.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["cloud storage", "file storage"],
+      "tools": ["Google Drive", "Dropbox2"],
+      "impact": ["safety", "file sharing", "shiva"]
+    }
+  },
+  {
+    "title": "Loops in Programming",
+    "paragraph": "A loop is a way to repeat steps in a program. For example, you can tell a computer to print numbers from 1 to 100 without writing each line. Loops save time and reduce mistakes. Common loops include 'for' and 'while.' Learning loops is key for beginners, as they make programs shorter, smarter, and more efficient overall.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["loops", "programming basics"],
+      "tools": ["for loop", "while loop"],
+      "impact": ["efficiency", "time-saving", "beginner-friendly"]
+    }
+  },
+  {
+    "title": "AI in Healthcare",
+    "paragraph": "AI is helping doctors in hospitals. It can read scans, predict diseases, and suggest treatments. This helps doctors work faster and avoid mistakes. Patients get better care with early detection. AI also assists in drug discovery. Still, human doctors remain important, as AI is just a tool. Healthcare is one of the biggest areas where AI is growing today.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["AI in healthcare", "medical technology"],
+      "tools": ["AI scans", "disease prediction"],
+      "impact": ["early detection", "faster treatment", "drug discovery"]
+    }
+  },
+  {
+    "title": "Learning Programming Made Easy",
+    "paragraph": "Programming is teaching a computer how to do a task. You write instructions in a language like Python or Java. Computers follow these steps exactly. Programming helps create apps, websites, and tools. Anyone can learn it with practice. Start with small exercises, then build projects. Programming is a mix of logic, creativity, and problem-solving that improves over time.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["programming basics", "learning code"],
+      "tools": ["Python", "Java"],
+      "impact": ["apps", "websites", "problem-solving"]
+    }
+  },
+  {
+    "title": "Artificial Intelligence in Daily Life",
+    "paragraph": "AI is not just in robots or big labs. It is already in our lives. Voice assistants, movie suggestions, and spam filters are all powered by AI. It learns from data and improves with time. AI saves time and makes tasks easier. It is changing jobs, businesses, and the way we live every day without us noticing it directly.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["artificial intelligence", "daily life"],
+      "tools": ["voice assistants", "spam filters", "recommendation systems"],
+      "impact": ["productivity", "jobs", "business"]
+    }
+  },
+  {
+    "title": "Why You Should Update Your Apps",
+    "paragraph": "App updates often fix bugs and improve safety. Hackers look for old app versions with weak points. Updating apps regularly protects your phone from attacks. Updates also add new features. It is a simple step but makes your device work better. Always check for updates in your settings to stay safe and enjoy the latest improvements.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["app updates", "cybersecurity"],
+      "tools": ["smartphone", "software"],
+      "impact": ["safety", "new features", "performance"]
+    }
+  },
+  {
+    "title": "Debugging: Finding and Fixing Errors",
+    "paragraph": "Debugging is checking your program for mistakes. Even skilled programmers face errors in their code. Common mistakes include typos, wrong logic, or missing steps. Debugging teaches patience and problem-solving. Tools like debuggers help track issues. Testing code regularly prevents big problems later. Debugging makes your program reliable and teaches you how to think carefully like a detective.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["debugging", "errors"],
+      "tools": ["debuggers", "testing tools"],
+      "impact": ["reliability", "problem-solving", "logic"]
+    }
+  },
+  {
+    "title": "AI That Writes Text",
+    "paragraph": "New AI tools can write emails, articles, and even stories. They learn from large amounts of text. This helps people save time and find ideas faster. But AI text is not always correct, so checking is important. Writers, students, and businesses use it every day. AI writing is becoming a common tool to support human creativity.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["AI writing", "text generation"],
+      "tools": ["AI tools", "language models"],
+      "impact": ["creativity", "productivity", "time-saving"]
+    }
+  },
+  {
+    "title": "The Power of Cloud Storage",
+    "paragraph": "Cloud storage means keeping files online instead of on your device. Services like Google Drive and Dropbox let you access files anywhere. You can share easily with others too. Cloud storage protects your files if your device breaks. It also saves space on your computer. It is safe, convenient, and useful for both students and professionals.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["cloud storage", "file storage"],
+      "tools": ["Google Drive", "Dropbox"],
+      "impact": ["safety", "file sharing", "convenience"]
+    }
+  },
+  {
+    "title": "Loops in Programming",
+    "paragraph": "A loop is a way to repeat steps in a program. For example, you can tell a computer to print numbers from 1 to 100 without writing each line. Loops save time and reduce mistakes. Common loops include 'for' and 'while.' Learning loops is key for beginners, as they make programs shorter, smarter, and more efficient overall.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["loops", "programming basics"],
+      "tools": ["for loop", "while loop"],
+      "impact": ["efficiency", "time-saving", "beginner-friendly"]
+    }
+  },
+  {
+    "title": "AI in Healthcare",
+    "paragraph": "AI is helping doctors in hospitals. It can read scans, predict diseases, and suggest treatments. This helps doctors work faster and avoid mistakes. Patients get better care with early detection. AI also assists in drug discovery. Still, human doctors remain important, as AI is just a tool. Healthcare is one of the biggest areas where AI is growing today.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["AI in healthcare", "medical technology"],
+      "tools": ["AI scans", "disease prediction"],
+      "impact": ["early detection", "faster treatment", "drug discovery"]
+    }
+  },
+  {
+    "title": "Protecting Your Wi-Fi Network",
+    "paragraph": "Your Wi-Fi is the entry point to your internet. If it is not secure, others can steal your data. Use a strong password and avoid sharing it with strangers. Changing your router’s default settings also helps. Turning off Wi-Fi when not in use adds extra safety. These small steps keep your internet connection private and safe from hackers.",
+    "image": "assets/images/test/488850763_17877737913282746_1331387732222840787_n.webp",
+    "credit": "Credit Text Here",
+    "keys": {
+      "topic": ["Wi-Fi security", "cyber safety"],
+      "tools": ["router", "password protection"],
+      "impact": ["privacy", "safety", "data protection"]
+    }
+  }
+]
